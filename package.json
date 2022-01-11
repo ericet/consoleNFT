@@ -1,0 +1,17 @@
+{
+  "name": "consolenft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "consoleNft_pro4.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "chromedriver": "^97.0.0",
+    "selenium-webdriver": "^4.1.0"
+  }
+}
